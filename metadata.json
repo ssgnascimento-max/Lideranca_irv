@@ -1,0 +1,7 @@
+{
+  "name": "Liderança IRV",
+  "description": "Uma plataforma completa para liderança de igreja, com gestão de células, estudos bíblicos, avisos e integração com IA para mensagens pastorais.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
